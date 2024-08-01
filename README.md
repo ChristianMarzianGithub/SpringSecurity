@@ -17,3 +17,5 @@ add that to your application.properties file:
   spring.security.user.password=${SECURITY_PASSWORD:12345}
 </i>
 
+<h2>4. create different users</h2>
+
