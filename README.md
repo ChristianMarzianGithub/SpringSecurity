@@ -10,9 +10,10 @@
 
 <h2>3. Setting default usr/pw in properties</h2>
 add that to your application.properties file
-</br>
+</br>:
 <i>
-spring.security.user.name=${SECURITY_USERNAME:eazybytes}
-spring.security.user.password=${SECURITY_PASSWORD:12345}
+  spring.security.user.name=${SECURITY_USERNAME:eazybytes}
+  </br>
+  spring.security.user.password=${SECURITY_PASSWORD:12345}
 </i>
 
