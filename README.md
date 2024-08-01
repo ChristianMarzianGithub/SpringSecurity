@@ -1,4 +1,4 @@
-# SpringSecurity
+# SpringSecurity Notes
 
 
 filtering directories on your website
