@@ -8,3 +8,5 @@
 
 <h2>2. Testing your api with postman</h2>
 
+<h2>Setting default usr/pw in properties</h2>
+
