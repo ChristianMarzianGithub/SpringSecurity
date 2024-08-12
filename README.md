@@ -19,3 +19,4 @@ add that to your application.properties file:
 
 <h2>4. create different users</h2>
 
+![image](https://github.com/user-attachments/assets/a93dee25-12c2-4427-8dc8-9ff36b670690)
