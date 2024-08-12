@@ -32,3 +32,7 @@ add that to your application.properties file:
 
 ![image](https://github.com/user-attachments/assets/0d33bc3f-bb86-4264-b9a4-f29fdf2b48cb)
 
+![image](https://github.com/user-attachments/assets/72415380-80eb-430d-a4f1-f9011bed0d7e)
+
+
+
