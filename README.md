@@ -22,7 +22,7 @@ add that to your application.properties file:
 ![image](https://github.com/user-attachments/assets/a93dee25-12c2-4427-8dc8-9ff36b670690)
 
 
-<h2>persist users with credentials in db</h2>
+<h2>5. persist users with credentials in db</h2>
 
 ![image](https://github.com/user-attachments/assets/e21be990-e4c8-4d2e-8d6b-25353a76bf1d)
 
