@@ -34,5 +34,8 @@ add that to your application.properties file:
 
 ![image](https://github.com/user-attachments/assets/72415380-80eb-430d-a4f1-f9011bed0d7e)
 
+<h2>6. custom form login</h2>
+=> Tutorial video 60 bis 64
+
 
 
