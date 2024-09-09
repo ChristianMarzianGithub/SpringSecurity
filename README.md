@@ -36,6 +36,7 @@ add that to your application.properties file:
 
 <h2>6. custom form login</h2>
 => Tutorial video 60 bis 64
+or slide in the pdf 60 to 65
 
 
 
