@@ -38,5 +38,10 @@ add that to your application.properties file:
 => Tutorial video 60 bis 64
 or slide in the pdf 60 to 65
 
+<h2>7. defining Roles and Authorities/ Listening to AuthorityEvents</h2>
+
+<h2>8. custom form login</h2>
+
+<h2>9. adding a custom Filter to the FilterChain</h2>
 
 
