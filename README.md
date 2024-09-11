@@ -44,4 +44,6 @@ or slide in the pdf 60 to 65
 
 <h2>9. adding a custom Filter to the FilterChain</h2>
 
+<h2>10. JWT-token based Authentication</h2>
+
 
