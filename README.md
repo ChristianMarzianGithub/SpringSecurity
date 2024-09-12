@@ -45,5 +45,22 @@ or slide in the pdf 60 to 65
 <h2>9. adding a custom Filter to the FilterChain</h2>
 
 <h2>10. JWT-token based Authentication</h2>
+<h2>11. Method-Level Security</h2>
+<ol>
+    <h3>Authorization</h3>
+    <ol>
+    <li>@PreAuthorize</li>  
+    <li>@PostAuthorize</li>  
+    </ol>
+    <h3>Filtering Autorization</h3>
+    <ol>
+      <li>
+        PreFilter  
+      </li>  
+      <li>
+        PostFilter  
+      </li>      
+    </ol>
+</ol>
 
 
