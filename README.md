@@ -49,7 +49,8 @@ or slide in the pdf 60 to 65
 <ol>
     <h3>Authorization</h3>
     <ol>
-    <li>@PreAuthorize</li>  
+    <li>@PreAuthorize</li> 
+      Usefull for example when you want to execute a method only for a specific role.
     <li>@PostAuthorize</li>  
     </ol>
     <h3>Filtering Autorization</h3>
